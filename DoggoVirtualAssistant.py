@@ -17,7 +17,7 @@ import subprocess
 import requests
 import json
 
-Wake = "hey dock"
+Wake = "hey doggo"
 Wake2 = "hey doug"
 Wake3 = "hey dog"
 Wake4 = "hey dugge"
